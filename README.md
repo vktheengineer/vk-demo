@@ -1,3 +1,3 @@
 # vk-demo
 this is my first git repository.
-Author - vivek jha.
+Author - vivek jha.(v.k)
